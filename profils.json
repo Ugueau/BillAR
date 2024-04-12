@@ -1,0 +1,72 @@
+[
+  {
+    "nom": "oui",
+    "webcam_billard_coordonnees_top_left": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "webcam_billard_coordonnees_top_right": {
+      "x": 150.0,
+      "y": 0.0
+    },
+    "webcam_billard_coordonnees_bot_left": {
+      "x": 0.0,
+      "y": 150.0
+    },
+    "webcam_billard_coordonnees_bot_right": {
+      "x": 150.0,
+      "y": 150.0
+    },
+    "projecteur_billard_coordonnees_top_left": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "projecteur_billard_coordonnees_top_right": {
+      "x": 150.0,
+      "y": 0.0
+    },
+    "projecteur_billard_coordonnees_bot_left": {
+      "x": 0.0,
+      "y": 150.0
+    },
+    "projecteur_billard_coordonnees_bot_right": {
+      "x": 150.0,
+      "y": 150.0
+    }
+  },
+  {
+    "nom": "11",
+    "webcam_billard_coordonnees_top_left": {
+      "x": 154.32295438088346,
+      "y": 139.45945945945948
+    },
+    "webcam_billard_coordonnees_top_right": {
+      "x": 472.54887762490944,
+      "y": 152.43243243243242
+    },
+    "webcam_billard_coordonnees_bot_left": {
+      "x": 152.93265749456918,
+      "y": 342.74131274131287
+    },
+    "webcam_billard_coordonnees_bot_right": {
+      "x": 461.42650253439547,
+      "y": 361.2741312741313
+    },
+    "projecteur_billard_coordonnees_top_left": {
+      "x": 446.0,
+      "y": 129.0
+    },
+    "projecteur_billard_coordonnees_top_right": {
+      "x": 2081.0,
+      "y": 169.0
+    },
+    "projecteur_billard_coordonnees_bot_left": {
+      "x": 400.0,
+      "y": 841.0
+    },
+    "projecteur_billard_coordonnees_bot_right": {
+      "x": 2083.0,
+      "y": 851.0
+    }
+  }
+]
