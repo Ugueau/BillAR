@@ -16,7 +16,7 @@ Cette détection peut prendre 20 à 30 secs.
 Vous n'avez plus qu'à vous amuser avec votre billard ! 
 
 ## Démonstration
-[![Video](https://youtu.be/guS1cG0wH1E)](https://youtu.be/guS1cG0wH1E)
+[Video](https://youtu.be/guS1cG0wH1E)
 
 
 ## Les contributeurs
